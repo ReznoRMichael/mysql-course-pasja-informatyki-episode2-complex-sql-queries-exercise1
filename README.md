@@ -2,7 +2,7 @@
 > Training course - Pasja Informatyki, MySQL course, episode 2 ( [Link](https://www.youtube.com/watch?v=P2YT9PvflUM) )
 
 ## General info
-Learning MySQL and PHP. Complex database SELECT queries. Database table relations. All queries are in the file queries_answers.txt.
+Learning MySQL and PHP. Complex database SELECT queries. Database table relations in a simulated online book store SQL database. All queries are in the file queries_answers.txt.
 
 ## Technologies
 * HTML5
