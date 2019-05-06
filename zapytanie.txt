@@ -1,0 +1,1 @@
+SELECT ksiazki.tytul, klienci.imie, klienci.nazwisko, zamowienia.idzamowienia, zamowienia.data, zamowienia.status FROM ksiazki, klienci, zamowienia WHERE klienci.nazwisko = "Rutkowski" AND klienci.idklienta = zamowienia.idklienta AND ksiazki.idksiazki = zamowienia.idksiazki
